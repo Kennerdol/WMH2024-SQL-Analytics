@@ -16,7 +16,7 @@ Healthcare institutions generate vast amounts of data daily, but without proper 
 - Analyze patient records, medical procedures, and hospital efficiency.
 - Generate insights using SQL queries for better decision-making.
 
-##Project Files
+## Project Files
 - wusakileHospital2024.xlsx – Original dataset containing hospital-related information.
 - wusakilehospital.sql – SQL script for database creation and data analysis.
 - README.md – Documentation for project setup, usage, and insights.
