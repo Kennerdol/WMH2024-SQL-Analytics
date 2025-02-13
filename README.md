@@ -27,7 +27,7 @@ The original data for the project was obtained from the hospital management syst
 - Open your terminal or command prompt.
 - Run the following command to clone the repository
   ```sh
-    git clone https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics.git
+   https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics.git
   ```
 
 2. Set Up the Database:
