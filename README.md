@@ -77,7 +77,7 @@ The original data for the project was obtained from the hospital management syst
 - Optimize queries for better performance if dealing with large datasets.
 
 ## Author
-[Kennedy Mulenga](https://github.com/Kennerdol)
+[Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
 ## Licence
 This project is licensed under the MIT License - see the [LICENSE] file for details.
