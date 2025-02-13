@@ -65,7 +65,7 @@ The original data for the project was obtained from the hospital management syst
      ```sql
        INSERT INTO WMH2024
          SELECT [Specify columns]
-     FROM WusakileHospital2024;
+       FROM WusakileHospital2024;
     ```
 
 7. Explore and run the queries (WusakileHospital2024.sql)
@@ -80,4 +80,4 @@ The original data for the project was obtained from the hospital management syst
 [Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
 ## Licence
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
