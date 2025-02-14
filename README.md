@@ -95,5 +95,5 @@ The original data for the project was obtained from the hospital management syst
 ## Author
 [Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
-## Licence
+## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE]() file for full details.
