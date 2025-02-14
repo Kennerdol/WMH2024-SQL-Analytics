@@ -1,6 +1,17 @@
 # Wusakile-Hospital-2024-SQL-Analytics
 
-## Overview
+## Table of Content
+  - [Project Overview](#project-overview)
+  - [Why This Project](#why-this-project)
+  - [Objectives and Features](#objectives-and-features)
+  - [Tools](#tools)
+  - [Project Files](#project-files)
+  - [Data Source](#data-source)
+  - [How to Use This Project](#how-to-use-this-project)
+  - [Author](#author)
+  - [License](#license)
+
+## Project Overview
 Wusakile Hospital 2024 SQL Analytics is a data-driven project that analyzes hospital operations, patient records, and medical services using SQL. The project includes an Excel dataset (WusakileHospital2024.xlsx) containing raw hospital data and a SQL script (WusakileHospital2024.sql) for database creation and analysis.
 
 ## Why This Project?
@@ -13,6 +24,10 @@ Healthcare institutions generate vast amounts of data daily, but critical insigh
 - Query Optimization: Use optimized SQL queries for faster and more insightful data retrieval.
 - Decision-Making Support: Generate insights that help hospital administrators improve operations.
 
+## Tools
+- MSSQL Management Studio - Data cleaning and analysis
+- Git and Github - Version control
+  
 ## Project Files
 - wusakileHospital2024.xlsx – Original dataset containing hospital-related information.
 - wusakileHospital2024.sql – SQL script for dataset manipulation and analytical queries.
@@ -22,7 +37,7 @@ Healthcare institutions generate vast amounts of data daily, but critical insigh
 ## Data Source
 The original data for the project was obtained from the hospital management system (Proclin).
 
-## Instructions: How to Use This Project
+## How to Use This Project
 
 1. Clone the Repository from GitHub
 - Open your terminal or command prompt.
