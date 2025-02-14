@@ -1,6 +1,7 @@
 # Wusakile-Hospital-2024-SQL-Analytics
 
-Wusakile Hospital 2024 SQL Analytics is a data-driven project that analyzes hospital operations, patient records, and medical services using SQL. The project includes an Excel dataset (wusakileHospital2024.xlsx) containing raw hospital data and a SQL script (wusakilehospital.sql) for database creation and analysis.
+## Overview
+Wusakile Hospital 2024 SQL Analytics is a data-driven project that analyzes hospital operations, patient records, and medical services using SQL. The project includes an Excel dataset (WusakileHospital2024.xlsx) containing raw hospital data and a SQL script (WusakileHospital2024.sql) for database creation and analysis.
 
 ## Why This Project?
 Healthcare institutions generate vast amounts of data daily, but critical insights may be overlooked without proper analysis. This project leverages SQL analytics to provide actionable insights that enhance patient care, optimize hospital administration, and improve financial management.
