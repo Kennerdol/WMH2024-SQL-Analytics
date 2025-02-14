@@ -29,10 +29,10 @@ Healthcare institutions generate vast amounts of data daily, but critical insigh
 - Git and Github - Version control
   
 ## Project Files
-- wusakileHospital2024.xlsx – Original dataset containing hospital-related information.
-- wusakileHospital2024.sql – SQL script for dataset manipulation and analytical queries.
-- README.md 👉[View](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/edit/main/README.md)👈– Documentation for project setup, usage, and insights.
-- LICENSE - Contains the CC BY-NC 4.0 License under which this project is distributed.
+- 👉[WusakileHospital2024.xlsb](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/blob/main/WusakileHospital2024.xlsb) – Original dataset containing hospital-related information.
+- 👉[WusakileHospital2024.sql](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/blob/main/WusakileHospital2024.sql) – SQL script for dataset manipulation and analytical queries.
+- 👉[README.md](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/edit/main/README.md)– Documentation for project setup, usage, and insights.
+- 👉[License](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/blob/main/License.txt) - Contains the CC BY-NC 4.0 License under which this project is distributed.
 
 ## Data Source
 The original data for the project was obtained from the hospital management system (Proclin).
@@ -96,4 +96,5 @@ The original data for the project was obtained from the hospital management syst
 [Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE]() file for full details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. 
+See the [LICENSE](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/blob/main/License.txt) file for full details.
