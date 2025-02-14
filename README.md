@@ -1,10 +1,9 @@
 # Wusakile-Hospital-2024-SQL-Analytics
-## SQL project for Wusakile Hospital 2024 data analysis and reporting
 
-Wusakile Hospital 2024 SQL Analytics is a data-driven project designed to analyze hospital operations, patient records, and medical services using SQL. The project includes an Excel dataset (wusakileHospital2024.xlsx) containing raw hospital data and a SQL script (wusakilehospital.sql) for database creation and data analysis.
+Wusakile Hospital 2024 SQL Analytics is a data-driven project that analyzes hospital operations, patient records, and medical services using SQL. The project includes an Excel dataset (wusakileHospital2024.xlsx) containing raw hospital data and a SQL script (wusakilehospital.sql) for database creation and analysis.
 
 ## Why This Project?
-Healthcare institutions generate vast amounts of data daily, but without proper analysis, critical insights may be overlooked. This project leverages SQL analytics to provide actionable insights that enhance patient care, optimize hospital administration, and improve financial management.
+Healthcare institutions generate vast amounts of data daily, but critical insights may be overlooked without proper analysis. This project leverages SQL analytics to provide actionable insights that enhance patient care, optimize hospital administration, and improve financial management.
 
 ## Objectives and Features
 - Data Structuring: Convert hospital records into a well-organized relational database.
@@ -15,8 +14,9 @@ Healthcare institutions generate vast amounts of data daily, but without proper 
 
 ## Project Files
 - wusakileHospital2024.xlsx – Original dataset containing hospital-related information.
-- wusakileHospital.sql – SQL script for dataset manipulation and analytical queries.
+- wusakileHospital2024.sql – SQL script for dataset manipulation and analytical queries.
 - README.md 👉[View](https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics/edit/main/README.md)👈– Documentation for project setup, usage, and insights.
+- LICENSE - Contains the CC BY-NC 4.0 License under which this project is distributed.
 
 ## Data Source
 The original data for the project was obtained from the hospital management system (Proclin).
@@ -80,4 +80,4 @@ The original data for the project was obtained from the hospital management syst
 [Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
 ## Licence
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE]() file for full details.
