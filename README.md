@@ -8,7 +8,7 @@
   - [Project Files](#project-files)
   - [Data Source](#data-source)
   - [How to Use This Project](#how-to-use-this-project)
-  - [Power BI Result Screenshot](#powerbiresultscreenshot)
+  - [Power BI Result Screenshot](#power-bi-result-screenshot)
   - [Author](#author)
   - [License](#license)
 
