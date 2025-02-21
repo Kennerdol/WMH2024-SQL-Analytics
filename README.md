@@ -93,6 +93,8 @@ The original data for the project was obtained from the hospital management syst
 - Create additional queries based on your specific interests.
 - Optimize queries for better performance if dealing with large datasets.
 
+9. Power BI Result Screenshot
+    ![](WMH2924.png)
 ## Author
 [Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
