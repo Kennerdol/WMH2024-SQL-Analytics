@@ -94,7 +94,7 @@ The original data for the project was obtained from the hospital management syst
 - Optimize queries for better performance if dealing with large datasets.
 
 ## Power BI Result Screenshot
-    ![](WMH2024.png)
+    ![](images/WMH2024.png)
 ## Author
 [Kennedy Mulenga](https://www.linkedin.com/in/kennedy-mulenga-675a32169/)
 
