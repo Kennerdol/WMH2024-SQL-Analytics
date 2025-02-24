@@ -44,7 +44,7 @@ The original data for the project was obtained from the hospital management syst
 - Open your terminal or command prompt.
 - Run the following command to clone the repository
   ```sh
-   https://github.com/Kennerdol/Wusakile-Hospital-2024-SQL-Analytics.git
+   https://github.com/Kennerdol/WMH2024-SQL-Analytics.git
   ```
 
 2. Set Up the Database:
@@ -69,25 +69,25 @@ The original data for the project was obtained from the hospital management syst
 4. Explore the Data:
 - Run SQL queries to see the overview of the imported data.
    ```sql
-    SELECT * FROM WusakileHospital2024;
+    SELECT * FROM WMH2024;
    ```
    
 5. Explore the Data:
 - Create a new permanent table(WMH2024) from the original wusakileHospital2024 table with formatted columns:
    ```sql
-    CREATE TABLE WMH2024([specify colums]);
+    CREATE TABLE WMH_2024([specify colums]);
    ```
 
 6. Insert data from the WusakileHospital2024 table:
      ```sql
-       INSERT INTO WMH2024
+       INSERT INTO WMH_2024
          SELECT [Specify columns]
-       FROM WusakileHospital2024;
+       FROM WMH2024;
     ```
 
 7. Explore and run the queries (WusakileHospital2024.sql)
      ```sql
-       SELECT * FROM WMH2024;
+       SELECT * FROM WMH_2024;
     ```
 8. Modify & Extend the Analysis:
 - Create additional queries based on your specific interests.
