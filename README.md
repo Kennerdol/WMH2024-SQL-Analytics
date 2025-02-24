@@ -32,7 +32,7 @@ Healthcare institutions generate vast amounts of data daily, but critical insigh
 ## Project Files
 - 👉[WMH2024.xlsb](https://github.com/Kennerdol/WMH2024-SQL-Analytics/blob/main/WMH2024.xlsb) – Original dataset containing hospital-related information.
 - 👉[WMH2024.sql](https://github.com/Kennerdol/WMH2024-SQL-Analytics/blob/main/WMH2024.sql) – SQL script for dataset manipulation and analytical queries.
-- 👉[README.md](https://github.com/Kennerdol/WMH2024-SQL-Analytics/edit/main/README.md)– Documentation for project setup, usage, and insights.
+- 👉[README.md](https://github.com/Kennerdol/WMH2024-SQL-Analytics/blob/main/README.md)– Documentation for project setup, usage, and insights.
 - 👉[License](https://github.com/Kennerdol/WMH2024-SQL-Analytics/blob/main/License.txt) - Contains the CC BY-NC 4.0 License under which this project is distributed.
 
 ## Data Source
